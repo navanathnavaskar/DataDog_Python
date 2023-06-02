@@ -5,7 +5,7 @@
 #### 1. User should have account on datadoghq.com 
 #### 2. Get API Key from your account and add it in main() at DD_API_KEY
 #### 3. User can change service name and other configurations as per requirements
-#### 4. Run using "python3 ProgramRUnner.py"
+#### 4. Run using "python3 ProgramRunner.py"
 
 ### How to install datadog_api_client ?
 Use below command to install it.
